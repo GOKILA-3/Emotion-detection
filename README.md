@@ -5,6 +5,7 @@ This project is an emotion detection system using deep learning. The model is bu
 The dataset consists of images stored in labeled directories:
 
 📂 **images** 
+
  ├── 📂 train  (Training dataset)  
  ├── 📂 test   (Testing dataset)  
  
